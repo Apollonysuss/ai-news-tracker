@@ -1,5 +1,5 @@
 streamlit
-requests
-beautifulsoup4
+arxiv
 feedparser
 openai
+watchdog
